@@ -30,7 +30,7 @@ Console.WriteLine($"{b}");
 }
 */
 
-
+//Напишите программу, которая принимает на вход три числа и выдаёт максимальное из этих чисел.
 /*
 Console.Write("input a first number: ");
 int a = Convert.ToInt32(Console.ReadLine());
@@ -56,7 +56,7 @@ else
 }
 */
 
-
+//Напишите программу, которая на вход принимает число и выдаёт, является ли число чётным (делится ли оно на два без остатка).
 /*
 Console.Write("input a number: ");
 int a = Convert.ToInt32(Console.ReadLine());
@@ -74,6 +74,7 @@ else
 */
 
 
+//Напишите программу, которая на вход принимает число (N), а на выходе показывает все чётные числа от 1 до N.
 /*
 Console.Write("input a positive integer number: ");
 int N = Convert.ToInt32(Console.ReadLine());
